@@ -7,6 +7,6 @@
 3. Compila el programa.
 4. Ejecuta el programa y añade el resultado en el apartado de \\**Resultado\\**
 
-## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+## ✅ Resultado
+![alt text]({B100F216-7AE2-4727-974E-9078EB16E41C}.png)

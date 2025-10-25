@@ -11,4 +11,8 @@
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+Sin corregir
+![alt text]({0B9DB6BE-051B-4132-A7A9-5BB333B96F42}.png)
+
+Corregido
+![alt text]({D6F74DA8-D78C-460E-9141-F81A5C783006}.png)
